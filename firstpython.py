@@ -1,3 +1,3 @@
 #display the output
 
-ptint("New python File")
+print("Again New python File")
